@@ -5,6 +5,7 @@ The "pdf" folder contains the article.
 
 If you use it, please cite:
 
+```
 @inproceedings{meo2022explainable,
   title={Explainable, Interpretable, Trustworthy, Responsible, Ethical, Fair, Verifiable AI... What’s Next?},
   author={Meo, Rosa and Nai, Roberto and Sulis, Emilio},
@@ -13,3 +14,4 @@ If you use it, please cite:
   year={2022},
   organization={Springer}
 }
+```
