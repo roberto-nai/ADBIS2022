@@ -1,6 +1,7 @@
 # Explainable, Interpretable, Trustworthy, Responsible, Ethical, Fair, Verifiable AI... What’s next?
 ## ADBIS 2022: 26th European Conference on Advances in Databases and Information Systems
 
+The "images" folder contains full-size figures of the article.  
 The "pdf" folder contains the article.
 
 If you use it, please cite:
